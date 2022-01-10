@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.exe
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.deps.json
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.runtimeconfig.json
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.runtimeconfig.dev.json
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.dll
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\ref\FinallyKeyword.dll
+D:\Learn .NET\Lession5\FinallyKeyword\bin\Debug\net5.0\FinallyKeyword.pdb
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.AssemblyInfo.cs
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.dll
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\ref\FinallyKeyword.dll
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.pdb
+D:\Learn .NET\Lession5\FinallyKeyword\obj\Debug\net5.0\FinallyKeyword.genruntimeconfig.cache

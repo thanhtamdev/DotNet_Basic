@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.exe
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.deps.json
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.runtimeconfig.json
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.runtimeconfig.dev.json
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.dll
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\ref\LearnDelegate.dll
+D:\Learn .NET\Lession8\LearnDelegate\bin\Debug\net5.0\LearnDelegate.pdb
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.AssemblyInfo.cs
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.dll
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\ref\LearnDelegate.dll
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.pdb
+D:\Learn .NET\Lession8\LearnDelegate\obj\Debug\net5.0\LearnDelegate.genruntimeconfig.cache

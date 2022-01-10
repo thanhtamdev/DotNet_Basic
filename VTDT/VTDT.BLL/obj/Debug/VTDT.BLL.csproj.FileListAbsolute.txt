@@ -1,0 +1,11 @@
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.BLL.dll
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.BLL.pdb
+D:\Learn .NET\VTDT\VTDT.BLL\obj\Debug\VTDT.BLL.csproj.AssemblyReference.cache
+D:\Learn .NET\VTDT\VTDT.BLL\obj\Debug\VTDT.BLL.csproj.CoreCompileInputs.cache
+D:\Learn .NET\VTDT\VTDT.BLL\obj\Debug\VTDT.BLL.dll
+D:\Learn .NET\VTDT\VTDT.BLL\obj\Debug\VTDT.BLL.pdb
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.DAL.dll
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.DTO.dll
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.DAL.pdb
+D:\Learn .NET\VTDT\VTDT.BLL\bin\Debug\VTDT.DTO.pdb
+D:\Learn .NET\VTDT\VTDT.BLL\obj\Debug\VTDT.BLL.csproj.CopyComplete

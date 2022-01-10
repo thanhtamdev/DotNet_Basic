@@ -1,0 +1,16 @@
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.exe
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.deps.json
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.runtimeconfig.json
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.dll
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\ref\test.dll
+D:\Learn .NET\Week1Exercise\test\bin\Debug\net5.0\test.pdb
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.dll
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\ref\test.dll
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.pdb
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+D:\Learn .NET\Week1Exercise\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache

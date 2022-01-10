@@ -1,0 +1,16 @@
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.exe
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.deps.json
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.runtimeconfig.json
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.runtimeconfig.dev.json
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.dll
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\ref\TruyenThamSo.dll
+D:\Learn .NET\BuildClass\TruyenThamSo\bin\Debug\net5.0\TruyenThamSo.pdb
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.csproj.AssemblyReference.cache
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.AssemblyInfoInputs.cache
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.AssemblyInfo.cs
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.csproj.CoreCompileInputs.cache
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.dll
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\ref\TruyenThamSo.dll
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.pdb
+D:\Learn .NET\BuildClass\TruyenThamSo\obj\Debug\net5.0\TruyenThamSo.genruntimeconfig.cache

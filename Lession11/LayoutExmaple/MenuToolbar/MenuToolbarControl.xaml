@@ -1,0 +1,33 @@
+﻿<Window x:Class="LayoutExmaple.MenuToolbar.MenuToolbarControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutExmaple.MenuToolbar"
+        mc:Ignorable="d"
+        Title="MenuToolbarControl" Height="450" Width="800">
+    <StackPanel>
+        <Menu x:Name="mnuMain" VerticalAlignment="Top">
+            <MenuItem Header="File" Name="mnuFile">
+                <MenuItem Header="New"/>
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Close"/>
+            </MenuItem>
+
+            <MenuItem Header="Edit" Name="mnuEdit">
+                <MenuItem Header="Cut">
+                    
+                </MenuItem>
+                <MenuItem Header="New"/>
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Close"/>
+            </MenuItem>
+        </Menu>
+
+        <ToolBar>
+            <Button>Open</Button>
+            <Button>Save</Button>
+            <Button>Open</Button>
+        </ToolBar>
+    </StackPanel>
+</Window>

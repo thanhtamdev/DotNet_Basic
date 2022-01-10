@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.exe
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.deps.json
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.runtimeconfig.json
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.runtimeconfig.dev.json
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.dll
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\ref\String.dll
+D:\Learn .NET\Lession3\String\bin\Debug\net5.0\String.pdb
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.AssemblyInfo.cs
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.dll
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\ref\String.dll
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.pdb
+D:\Learn .NET\Lession3\String\obj\Debug\net5.0\String.genruntimeconfig.cache

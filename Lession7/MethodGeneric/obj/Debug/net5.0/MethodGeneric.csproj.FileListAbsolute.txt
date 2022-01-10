@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.exe
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.deps.json
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.runtimeconfig.json
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.runtimeconfig.dev.json
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.dll
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\ref\MethodGeneric.dll
+D:\Learn .NET\Lession7\MethodGeneric\bin\Debug\net5.0\MethodGeneric.pdb
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.AssemblyInfo.cs
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.dll
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\ref\MethodGeneric.dll
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.pdb
+D:\Learn .NET\Lession7\MethodGeneric\obj\Debug\net5.0\MethodGeneric.genruntimeconfig.cache

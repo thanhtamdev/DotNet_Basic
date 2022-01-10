@@ -1,0 +1,15 @@
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.exe
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.deps.json
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.runtimeconfig.json
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.runtimeconfig.dev.json
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.dll
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\ref\Ex6.dll
+D:\Learn .NET\Lab4\Ex6\bin\Debug\net5.0\Ex6.pdb
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.AssemblyInfoInputs.cache
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.AssemblyInfo.cs
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.dll
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\ref\Ex6.dll
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.pdb
+D:\Learn .NET\Lab4\Ex6\obj\Debug\net5.0\Ex6.genruntimeconfig.cache

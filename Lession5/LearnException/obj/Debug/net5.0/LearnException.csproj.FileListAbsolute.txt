@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.exe
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.deps.json
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.runtimeconfig.json
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.runtimeconfig.dev.json
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.dll
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\ref\LearnException.dll
+D:\Learn .NET\Lession5\LearnException\bin\Debug\net5.0\LearnException.pdb
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.AssemblyInfo.cs
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.dll
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\ref\LearnException.dll
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.pdb
+D:\Learn .NET\Lession5\LearnException\obj\Debug\net5.0\LearnException.genruntimeconfig.cache

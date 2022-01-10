@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.exe
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.deps.json
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.runtimeconfig.json
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.runtimeconfig.dev.json
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.dll
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ref\ExampleArray.dll
+D:\Learn .NET\Lession3\ExampleArray\bin\Debug\net5.0\ExampleArray.pdb
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.AssemblyInfo.cs
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.dll
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ref\ExampleArray.dll
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.pdb
+D:\Learn .NET\Lession3\ExampleArray\obj\Debug\net5.0\ExampleArray.genruntimeconfig.cache

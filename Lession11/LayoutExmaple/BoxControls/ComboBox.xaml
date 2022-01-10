@@ -1,0 +1,19 @@
+﻿<Window x:Class="LayoutExmaple.BoxControls.ComboBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutExmaple.BoxControls"
+        mc:Ignorable="d"
+        Title="ComboBox" Height="300" Width="350">
+    <StackPanel Margin="20">
+        <Label>Quê quán:</Label>
+        <ComboBox x:Name="cboQueQuan" Width="250" HorizontalAlignment="Left" SelectedIndex="0">
+            <ComboBoxItem>Ha Noi</ComboBoxItem>
+            <ComboBoxItem>Ninh Binh</ComboBoxItem>
+            <ComboBoxItem>Ha Nam</ComboBoxItem>
+            <ComboBoxItem>Tp. HCM</ComboBoxItem>
+            <ComboBoxItem>Da Nang</ComboBoxItem>
+        </ComboBox>
+    </StackPanel>
+</Window>

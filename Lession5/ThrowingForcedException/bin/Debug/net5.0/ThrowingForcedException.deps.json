@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThrowingForcedException/1.0.0": {
+        "runtime": {
+          "ThrowingForcedException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThrowingForcedException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

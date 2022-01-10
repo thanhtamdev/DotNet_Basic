@@ -1,0 +1,6 @@
+D:\Learn .NET\VTDT\VTDT.DTO\bin\Debug\VTDT.DTO.dll
+D:\Learn .NET\VTDT\VTDT.DTO\bin\Debug\VTDT.DTO.pdb
+D:\Learn .NET\VTDT\VTDT.DTO\obj\Debug\VTDT.DTO.csproj.AssemblyReference.cache
+D:\Learn .NET\VTDT\VTDT.DTO\obj\Debug\VTDT.DTO.csproj.CoreCompileInputs.cache
+D:\Learn .NET\VTDT\VTDT.DTO\obj\Debug\VTDT.DTO.dll
+D:\Learn .NET\VTDT\VTDT.DTO\obj\Debug\VTDT.DTO.pdb

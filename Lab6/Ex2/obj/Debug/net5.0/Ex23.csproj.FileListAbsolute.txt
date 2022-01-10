@@ -1,0 +1,16 @@
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.exe
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.deps.json
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.runtimeconfig.json
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.runtimeconfig.dev.json
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.dll
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\ref\Ex23.dll
+D:\Learn .NET\Lab6\Ex2\bin\Debug\net5.0\Ex23.pdb
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.csproj.AssemblyReference.cache
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.AssemblyInfoInputs.cache
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.AssemblyInfo.cs
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.dll
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\ref\Ex23.dll
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.pdb
+D:\Learn .NET\Lab6\Ex2\obj\Debug\net5.0\Ex23.genruntimeconfig.cache

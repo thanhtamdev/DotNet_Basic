@@ -1,0 +1,16 @@
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.exe
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.deps.json
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.runtimeconfig.json
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.runtimeconfig.dev.json
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.dll
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\ref\KeyWordParams.dll
+D:\Learn .NET\BuildClass\KeyWordParams\bin\Debug\net5.0\KeyWordParams.pdb
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.csproj.AssemblyReference.cache
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.AssemblyInfoInputs.cache
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.AssemblyInfo.cs
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.csproj.CoreCompileInputs.cache
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.dll
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\ref\KeyWordParams.dll
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.pdb
+D:\Learn .NET\BuildClass\KeyWordParams\obj\Debug\net5.0\KeyWordParams.genruntimeconfig.cache

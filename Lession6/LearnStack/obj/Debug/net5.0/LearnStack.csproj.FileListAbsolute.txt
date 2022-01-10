@@ -1,0 +1,15 @@
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.exe
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.deps.json
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.runtimeconfig.json
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.runtimeconfig.dev.json
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.dll
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\ref\LearnStack.dll
+D:\Learn .NET\Lession6\LearnStack\bin\Debug\net5.0\LearnStack.pdb
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.AssemblyInfo.cs
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.dll
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\ref\LearnStack.dll
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.pdb
+D:\Learn .NET\Lession6\LearnStack\obj\Debug\net5.0\LearnStack.genruntimeconfig.cache

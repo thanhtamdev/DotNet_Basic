@@ -1,0 +1,15 @@
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.exe
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.deps.json
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.runtimeconfig.json
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.runtimeconfig.dev.json
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.dll
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\ref\LearnEvent.dll
+D:\Learn .NET\Lession8\LearnEvent\bin\Debug\net5.0\LearnEvent.pdb
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.AssemblyInfo.cs
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.dll
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\ref\LearnEvent.dll
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.pdb
+D:\Learn .NET\Lession8\LearnEvent\obj\Debug\net5.0\LearnEvent.genruntimeconfig.cache

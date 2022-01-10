@@ -1,0 +1,16 @@
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.exe
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.deps.json
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.dll
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\ref\Operator.dll
+D:\Learn .NET\Operator\Operator\bin\Debug\net5.0\Operator.pdb
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.csproj.AssemblyReference.cache
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.cs
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.dll
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\ref\Operator.dll
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.pdb
+D:\Learn .NET\Operator\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache

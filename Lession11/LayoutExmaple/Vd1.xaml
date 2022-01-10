@@ -1,0 +1,39 @@
+﻿<Window x:Class="LayoutExmaple.Vd1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutExmaple"
+        mc:Ignorable="d"
+        Title="Chương trình tính toán" Height="400" Width="600">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.ColumnSpan="3" HorizontalAlignment="Center" FontSize="25" FontWeight="Bold">
+            Chương trình tính toán
+        </Label>
+
+        <Label Grid.Row="1" Grid.Column="0" Margin="15" HorizontalAlignment="Right">Số:</Label>
+        <TextBox x:Name="txtNumber" Grid.Row="1" Grid.Column="1" Margin="15"></TextBox>
+
+        <Label Grid.Row="2" Grid.Column="0" Margin="15" HorizontalAlignment="Right">Kết quả:</Label>
+        <TextBox x:Name="txtResult" Grid.Row="2" Grid.Column="1" Margin="15"></TextBox>
+
+        <Button x:Name="btnBinhPhuong" Grid.Row="1" Grid.Column="2" Margin="15" Click="btnBinhPhuong_Click">Bình phương</Button>
+        <Button x:Name="btnLapPhuong" Grid.Row="2" Grid.Column="2" Margin="15">Lập phương</Button>
+        <Button x:Name="btnGiaiThua" Grid.Row="3" Grid.Column="2" Margin="15">Giai thừa</Button>
+        <Button x:Name="btnExit" Grid.Row="4" Grid.Column="1" Margin="65 15 65 15">Thoát</Button>
+    </Grid>
+</Window>

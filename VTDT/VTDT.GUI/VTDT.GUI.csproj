@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EEEA35A3-6542-4540-8705-B4DC57F03F87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VTDT.GUI</RootNamespace>
+    <AssemblyName>VTDT.GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCapCQBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapCQBH.Designer.cs">
+      <DependentUpon>frmCapCQBH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapCQBHList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapCQBHList.Designer.cs">
+      <DependentUpon>frmCapCQBHList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCapCQBH.resx">
+      <DependentUpon>frmCapCQBH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapCQBHList.resx">
+      <DependentUpon>frmCapCQBHList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VTDT.BLL\VTDT.BLL.csproj">
+      <Project>{020281e8-8b88-4bc0-81f5-6e7d6ba27e53}</Project>
+      <Name>VTDT.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VTDT.DTO\VTDT.DTO.csproj">
+      <Project>{53a15617-6a7f-4ecb-be90-0e7ee53aaa41}</Project>
+      <Name>VTDT.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VTDT.UTIL\VTDT.UTIL.csproj">
+      <Project>{af2132bc-cc53-40d4-8f10-ca5770a597ca}</Project>
+      <Name>VTDT.UTIL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Add.png" />
+    <Content Include="Images\Attach.png" />
+    <Content Include="Images\Brightness.png" />
+    <Content Include="Images\calendar1.png" />
+    <Content Include="Images\calendar2.png" />
+    <Content Include="Images\Camera.png" />
+    <Content Include="Images\category1.png" />
+    <Content Include="Images\category3.png" />
+    <Content Include="Images\Chart xy.png" />
+    <Content Include="Images\chart_bar.png" />
+    <Content Include="Images\chidao.png" />
+    <Content Include="Images\Close.png" />
+    <Content Include="Images\Create.png" />
+    <Content Include="Images\Delete.png" />
+    <Content Include="Images\Download.png" />
+    <Content Include="Images\Edit.ico" />
+    <Content Include="Images\Edit.png" />
+    <Content Include="Images\Exit.png" />
+    <Content Include="Images\Export.png" />
+    <Content Include="Images\find1.png" />
+    <Content Include="Images\Folder.png" />
+    <Content Include="Images\Form.png" />
+    <Content Include="Images\Forward.png" />
+    <Content Include="Images\Go down.png" />
+    <Content Include="Images\Go up.png" />
+    <Content Include="Images\Home.png" />
+    <Content Include="Images\images.png" />
+    <Content Include="Images\Import.png" />
+    <Content Include="Images\index.png" />
+    <Content Include="Images\Key.png" />
+    <Content Include="Images\Left.png" />
+    <Content Include="Images\Ok.png" />
+    <Content Include="Images\Pen.png" />
+    <Content Include="Images\Pencil.png" />
+    <Content Include="Images\print1.png" />
+    <Content Include="Images\print2.png" />
+    <Content Include="Images\print3.png" />
+    <Content Include="Images\Properties.png" />
+    <Content Include="Images\Refresh.png" />
+    <Content Include="Images\Right.png" />
+    <Content Include="Images\Search folder.png" />
+    <Content Include="Images\Show.png" />
+    <Content Include="Images\statistic6.png" />
+    <Content Include="Images\statistics2.png" />
+    <Content Include="Images\statistics3.png" />
+    <Content Include="Images\Synchronize.png" />
+    <Content Include="Images\system.png" />
+    <Content Include="Images\Unlock.png" />
+    <Content Include="Images\Up.png" />
+    <Content Include="Images\user.png" />
+    <Content Include="Images\_back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reports\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

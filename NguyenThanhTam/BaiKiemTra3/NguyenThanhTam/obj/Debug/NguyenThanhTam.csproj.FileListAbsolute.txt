@@ -1,0 +1,10 @@
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.csproj.AssemblyReference.cache
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.frmThongTinSach.resources
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.Properties.Resources.resources
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.csproj.GenerateResource.cache
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.csproj.CoreCompileInputs.cache
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\bin\Debug\NguyenThanhTam.exe.config
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\bin\Debug\NguyenThanhTam.exe
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\bin\Debug\NguyenThanhTam.pdb
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.exe
+D:\Learn .NET\NguyenThanhTam\BaiKiemTra3\NguyenThanhTam\obj\Debug\NguyenThanhTam.pdb

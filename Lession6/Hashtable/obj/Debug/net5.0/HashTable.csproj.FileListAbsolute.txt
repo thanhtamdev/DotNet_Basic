@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.exe
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.deps.json
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.runtimeconfig.json
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.runtimeconfig.dev.json
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.dll
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\ref\HashTable.dll
+D:\Learn .NET\Lession6\Hashtable\bin\Debug\net5.0\HashTable.pdb
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.AssemblyInfo.cs
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.dll
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\ref\HashTable.dll
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.pdb
+D:\Learn .NET\Lession6\Hashtable\obj\Debug\net5.0\HashTable.genruntimeconfig.cache

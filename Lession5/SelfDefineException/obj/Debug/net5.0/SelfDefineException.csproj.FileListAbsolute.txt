@@ -1,0 +1,15 @@
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.exe
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.deps.json
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.runtimeconfig.json
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.runtimeconfig.dev.json
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.dll
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\ref\SelfDefineException.dll
+D:\Learn .NET\Lession5\SelfDefineException\bin\Debug\net5.0\SelfDefineException.pdb
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.AssemblyInfo.cs
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.dll
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\ref\SelfDefineException.dll
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.pdb
+D:\Learn .NET\Lession5\SelfDefineException\obj\Debug\net5.0\SelfDefineException.genruntimeconfig.cache

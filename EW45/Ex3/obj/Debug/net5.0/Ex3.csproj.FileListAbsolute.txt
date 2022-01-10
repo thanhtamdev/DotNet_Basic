@@ -1,0 +1,16 @@
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.exe
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.deps.json
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.json
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.dev.json
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.dll
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\ref\Ex3.dll
+D:\Learn .NET\EW45\Ex3\bin\Debug\net5.0\Ex3.pdb
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.csproj.AssemblyReference.cache
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfoInputs.cache
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfo.cs
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.dll
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\ref\Ex3.dll
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.pdb
+D:\Learn .NET\EW45\Ex3\obj\Debug\net5.0\Ex3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.exe
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.deps.json
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.runtimeconfig.json
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.runtimeconfig.dev.json
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.dll
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ref\ThrowingForcedException.dll
+D:\Learn .NET\Lession5\ThrowingForcedException\bin\Debug\net5.0\ThrowingForcedException.pdb
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.AssemblyInfo.cs
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.dll
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ref\ThrowingForcedException.dll
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.pdb
+D:\Learn .NET\Lession5\ThrowingForcedException\obj\Debug\net5.0\ThrowingForcedException.genruntimeconfig.cache

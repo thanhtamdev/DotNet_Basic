@@ -1,0 +1,24 @@
+﻿<Window x:Class="LayoutExmaple.BoxControls.TabControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutExmaple.BoxControls"
+        mc:Ignorable="d"
+        Title="TabControl" Height="450" Width="800">
+    <TabControl>
+        <TabItem Header="Nhóm 1">
+            <TextBox></TextBox>
+        </TabItem>
+        <TabItem Header="Nhóm 2">
+            <StackPanel>
+                <Label></Label>
+                <Button></Button>
+            </StackPanel>
+        </TabItem>
+        <TabItem Header="Nhóm 3"></TabItem>
+        <TabItem Header="Nhóm 4"></TabItem>
+        <TabItem Header="Nhóm 5"></TabItem>
+        <TabItem Header="Nhóm 6"></TabItem>
+    </TabControl>
+</Window>

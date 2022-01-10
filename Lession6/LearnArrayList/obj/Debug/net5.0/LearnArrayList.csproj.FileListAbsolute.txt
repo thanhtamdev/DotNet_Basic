@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.exe
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.deps.json
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.runtimeconfig.json
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.runtimeconfig.dev.json
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.dll
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\ref\LearnArrayList.dll
+D:\Learn .NET\Lession6\LearnArrayList\bin\Debug\net5.0\LearnArrayList.pdb
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.AssemblyInfo.cs
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.dll
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\ref\LearnArrayList.dll
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.pdb
+D:\Learn .NET\Lession6\LearnArrayList\obj\Debug\net5.0\LearnArrayList.genruntimeconfig.cache

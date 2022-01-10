@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MenuAndToolBar/1.0.0": {
+        "dependencies": {
+          "Commoncontrols": "1.0.0.0"
+        },
+        "runtime": {
+          "MenuAndToolBar.dll": {}
+        }
+      },
+      "Commoncontrols/1.0.0.0": {
+        "runtime": {
+          "Commoncontrols.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuAndToolBar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Commoncontrols/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.exe
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.deps.json
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.runtimeconfig.json
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.runtimeconfig.dev.json
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.dll
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\ref\Callback.dll
+D:\Learn .NET\Lession8\Callback\bin\Debug\net5.0\Callback.pdb
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.AssemblyInfo.cs
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.dll
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\ref\Callback.dll
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.pdb
+D:\Learn .NET\Lession8\Callback\obj\Debug\net5.0\Callback.genruntimeconfig.cache

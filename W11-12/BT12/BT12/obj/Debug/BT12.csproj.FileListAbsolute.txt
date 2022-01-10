@@ -1,0 +1,10 @@
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.csproj.AssemblyReference.cache
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.frmNhanVien.resources
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.Properties.Resources.resources
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.csproj.GenerateResource.cache
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.csproj.CoreCompileInputs.cache
+D:\Learn .NET\W11-12\BT12\BT12\bin\Debug\BT12.exe.config
+D:\Learn .NET\W11-12\BT12\BT12\bin\Debug\BT12.exe
+D:\Learn .NET\W11-12\BT12\BT12\bin\Debug\BT12.pdb
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.exe
+D:\Learn .NET\W11-12\BT12\BT12\obj\Debug\BT12.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeltalPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTreView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

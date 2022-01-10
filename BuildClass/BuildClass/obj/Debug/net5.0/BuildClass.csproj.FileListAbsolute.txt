@@ -1,0 +1,16 @@
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.exe
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.deps.json
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.runtimeconfig.json
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.runtimeconfig.dev.json
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.dll
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\ref\BuildClass.dll
+D:\Learn .NET\BuildClass\BuildClass\bin\Debug\net5.0\BuildClass.pdb
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.csproj.AssemblyReference.cache
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.AssemblyInfoInputs.cache
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.AssemblyInfo.cs
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.csproj.CoreCompileInputs.cache
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.dll
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\ref\BuildClass.dll
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.pdb
+D:\Learn .NET\BuildClass\BuildClass\obj\Debug\net5.0\BuildClass.genruntimeconfig.cache

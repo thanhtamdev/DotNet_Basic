@@ -1,0 +1,28 @@
+﻿<Window x:Class="LayoutExmaple.BoxControls.ExpanderControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutExmaple.BoxControls"
+        mc:Ignorable="d"
+        Title="ExpanderControl" Height="250" Width="400">
+    <Grid Margin="15">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"></ColumnDefinition>
+            <ColumnDefinition Width="0.7*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Margin="20">Giới tính:</Label>
+        <Expander Grid.Row="0" Grid.Column="1" Header="Giới tính" IsExpanded="True">
+            <WrapPanel >
+                <RadioButton Margin="20" IsChecked="True">Nam</RadioButton>
+                <RadioButton Margin="20">Nữ</RadioButton>
+            </WrapPanel>
+        </Expander>
+    </Grid>
+</Window>
